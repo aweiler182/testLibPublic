@@ -1,0 +1,2 @@
+https://www.nuget.org/api/v2/package/Castle.Core/4.4.1
+https://www.nuget.org/api/v2/package/Moq/4.16.1

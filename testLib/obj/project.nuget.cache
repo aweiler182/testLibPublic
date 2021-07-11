@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dcnc5W4RWkPvZXtROnR1kro9/U6vLdx4UJsGPNtYIfp3b6ln3MjU6nfBkxlTBoeayvcfuK6WDKan9h0Ti5Q6TQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\testLib\\testLib\\testLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aweiler\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

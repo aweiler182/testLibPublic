@@ -1,0 +1,9 @@
+C:\git\testLib\testLib\bin\Release\netcoreapp3.1\testLib.deps.json
+C:\git\testLib\testLib\bin\Release\netcoreapp3.1\testLib.dll
+C:\git\testLib\testLib\bin\Release\netcoreapp3.1\testLib.pdb
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.AssemblyInfoInputs.cache
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.AssemblyInfo.cs
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.csproj.CoreCompileInputs.cache
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.dll
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.pdb
+C:\git\testLib\testLib\obj\Release\netcoreapp3.1\testLib.csproj.AssemblyReference.cache

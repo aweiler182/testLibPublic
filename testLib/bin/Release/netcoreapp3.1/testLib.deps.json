@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "testLib/1.0.0-dev-1345": {
+        "runtime": {
+          "testLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testLib/1.0.0-dev-1345": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
